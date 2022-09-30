@@ -1,4 +1,4 @@
-# movie-prime
+# Moviezine
 
 Deployed link [click here](https://movie-prime-saurabh.netlify.app/)
 
